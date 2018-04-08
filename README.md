@@ -1,5 +1,6 @@
 # SampleGradleJava
-Set of script to set gradle enviroment for java
+Sample Gradle Java Application
+[Original documentation](https://spring.io/guides/gs/gradle/) 
 
 Build
 ```sh
